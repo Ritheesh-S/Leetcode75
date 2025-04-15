@@ -1,4 +1,4 @@
-# PROBLEM
+# reverse-words-in-a-string
 link to the problem [leetcode/reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string/)
 
 ## Problem Statement (What I understood)
